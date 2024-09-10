@@ -1,0 +1,1 @@
+alert('Obrigado por acessar, este site é apenas um teste. te amo<3');
